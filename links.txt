@@ -1,0 +1,8 @@
+[2023/12/28]
+    vue cli (https://cli.vuejs.org/)
+    create-react-app (https://create-react-app.dev/)
+    @angular/cli (https://angular.io/cli)
+    babel (https://babeljs.io/)
+    webpack (https://webpack.js.org/)
+    typescript (https://www.typescriptlang.org/)
+    eslint (http://eslint.org/)
